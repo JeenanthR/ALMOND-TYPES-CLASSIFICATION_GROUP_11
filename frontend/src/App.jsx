@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-const API_BASE_URL = 'https://adequate-compassion-production-88d5.up.railway.app';
+const API_BASE_URL = 'https://almond-types-classificationgroup11-production.up.railway.app';
 
 const PRESETS = {
   MAMRA: {
