@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a5b4fc" />
+      <stop offset="50%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#4f46e5" />
+    </linearGradient>
+  </defs>
+  <!-- Stylized premium almond shape -->
+  <path d="M256,30 C130,150 100,340 256,482 C412,340 382,150 256,30 Z" fill="url(#grad)" />
+  <!-- Inner contrast cut -->
+  <path d="M256,80 C170,180 150,320 256,432 C362,320 342,180 256,80 Z" fill="#0a0c14" opacity="0.45" />
+  <!-- Accent highlight -->
+  <path d="M256,120 C200,200 190,300 256,390 C322,300 312,200 256,120 Z" fill="url(#grad)" opacity="0.85" />
+</svg>
